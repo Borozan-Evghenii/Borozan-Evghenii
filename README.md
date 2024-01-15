@@ -114,8 +114,6 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#jackson-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
@@ -135,4 +133,5 @@
       <br>Tailwind
     </td>
   </tr> 
+ 
 </table>
